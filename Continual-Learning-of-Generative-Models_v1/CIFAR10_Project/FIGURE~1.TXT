@@ -1,0 +1,4 @@
+Generator Iterations;FID Score;FID Score Evolution over Time
+Barycentric Fast Adaptation;Transfer Fast Adaptation
+CIFAR_Simulations/Folder_Transfer_[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]Full15FID_score_iters;CIFAR_Simulations/Folder_BaryTransfer_[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]Full14FID_score_iters
+CIFAR_Simulations/Folder_Transfer_[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]Full15FID_score;CIFAR_Simulations/Folder_BaryTransfer_[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]Full14FID_score
