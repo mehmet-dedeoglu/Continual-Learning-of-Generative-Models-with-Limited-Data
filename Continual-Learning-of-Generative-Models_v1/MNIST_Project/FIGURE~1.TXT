@@ -1,0 +1,4 @@
+Generator Iterations;FID Score;FID Score Evolution over Time
+Edge Only;Barycenteric Transfer Adaptation;Transferring GAN
+MNIST_Simulations_Overlapping/Folder_EdgeOnly_[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]FullFID_score_iters;MNIST_Simulations_Overlapping/Folder_BaryTransfer_[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]Full14FID_score_iters;MNIST_Simulations_Overlapping/Folder_Transfer_[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]Full16FID_score_iters
+MNIST_Simulations_Overlapping/Folder_EdgeOnly_[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]FullFID_score;MNIST_Simulations_Overlapping/Folder_BaryTransfer_[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]Full14FID_score;MNIST_Simulations_Overlapping/Folder_Transfer_[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]Full16FID_score

@@ -1,1 +1,26 @@
-
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+MNIST_Simulations/Folder_[0, 1, 2, 3]/checkpoint_Iter_2000
+MNIST_Simulations/Folder_[4, 5, 6, 7]/checkpoint_Iter_2000
+MNIST_Simulations/Folder_[10 11]/checkpoint_Iter_2000
+MNIST_Simulations/Folder_EdgeOnly_[8, 9]Full13/checkpoint_Iter_2000
+MNIST_Simulations/Folder_BaryTransfer_[8, 9]Full14/checkpoint_Iter_2000
+MNIST_Simulations/Folder_Transfer_Full15/checkpoint_Iter_2000
+MNIST_Simulations/Folder_Transfer_Full16/checkpoint_Iter_2000
+MNIST_Simulations/Folder_Aggregate_[10 11]Full17/checkpoint_Iter_2000
+MNIST_Simulations/Folder_Aggregate_[17  8  9]Full18/checkpoint_Iter_2000
+MNIST_Simulations/Folder_Transfer_Full19/checkpoint_Iter_2000
+MNIST_Simulations/Folder_EdgeOnly_[8, 9]Full20/checkpoint_Iter_2000
+0
+0
+0
+0
+0
