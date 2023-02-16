@@ -1,0 +1,32 @@
+cuda:0/ Options: False, 0, 1,...; Availability of cuda
+batch_size:256/ Options: Any integer; Batch size at each iteration
+generator_iters:1/ Options: Any integer >0; Number of generator iterations per training iteration
+critic_iter:5/ Options: Any integer >0; Number of discriminator iterations per training iteration
+epoch_num:10001/ Options: Any integer; Total number of iterations
+beta_1:0.5/ Options: 0< and <1; Beta1 parameter of Adam
+beta_2:0.999/ Options: 0< and <1; Beta2 parameter of Adam
+epsilon:0.0000001/ Options: 0< and <1; Epsilon parameter of Adam
+learning_rate:0.0001/ Options: 0< any number; Learning rate of Adam
+lambda_val:10/ Options: 0< any value; Weight parameter for gradient penalty
+dataset:MNIST/ Options: MNIST, CIFAR10, CIFAR100, LSUN; Dataset selection
+subsample:50/ Options: 0< any integer; Number of samples at target edge node 0
+save_interval:25/ Options: 0< any integer; Number of training iterations without saving a model
+FID_BATCH_SIZE:1000/ Options: 0< any integer; Number of samples for computing FID score
+critic_weights:1,1,1,1,1,1,1,1/ Options: any integer; Weights of Wasserstein barycenter problem
+precision:Full/
+0-All, 1-All, 2-All, 3-All, 4-All:10/ data for Discriminator 1-Number of random samples from each class; data for Discriminator 2-Number of random samples from each class: destination
+5-All, 6-All, 7-All, 8-All, 9-All:11/ data for Discriminator 1-Number of random samples from each class; data for Discriminator 2-Number of random samples from each class: destination
+10-5000; 11-5000:12-10/
+12-10000; 0-100, 1-100, 2-100, 3-100, 4-100, 5-100, 6-100, 7-100, 8-100, 9-100:13-12/
+0-All, 1-All, 2-All, 3-All:15/ data for Discriminator 1-Number of random samples from each class; data for Discriminator 2-Number of random samples from each class: destination
+4-All, 5-All, 6-All, 7-All:16/ data for Discriminator 1-Number of random samples from each class; data for Discriminator 2-Number of random samples from each class: destination
+15-5000; 16-5000:17-15/
+17-10000; 8-100, 9-100:18-17/
+0-All, 1-All, 2-All, 3-All, 4-All:20/ data for Discriminator 1-Number of random samples from each class; data for Discriminator 2-Number of random samples from each class: destination
+5-All, 6-All, 7-All, 8-All, 9-All:21/ data for Discriminator 1-Number of random samples from each class; data for Discriminator 2-Number of random samples from each class: destination
+20-5000; 21-5000:22-20/
+22-10000; 0-10, 1-10, 2-10, 3-100, 4-10, 5-10, 6-10, 7-10, 8-10, 9-10:23-22/
+0-All, 1-All, 2-All, 3-All:25/ data for Discriminator 1-Number of random samples from each class; data for Discriminator 2-Number of random samples from each class: destination
+4-All, 5-All, 6-All, 7-All:26/ data for Discriminator 1-Number of random samples from each class; data for Discriminator 2-Number of random samples from each class: destination
+25-5000; 26-5000:27-25/
+27-10000; 8-10, 9-10:28-27/
