@@ -1,0 +1,8 @@
+Pretrain;Full; 0 1 2 3 4; 10
+Pretrain;Full; 5 6 7 8 9; 11
+Barycenter;Full; 10 11; 12
+EdgeOnly;Full; 0 1 2 3 4 5 6 7 8 9; 13
+BaryTransfer;Full; 12 0 1 2 3 4 5 6 7 8 9; 12; 14
+ModelAverage;Full; 10 11; 20
+BaryTransfer;Full; 20 0 1 2 3 4 5 6 7 8 9; 20; 21
+FullData;Full; 0 1 2 3 4 5 6 7 8 9; 22

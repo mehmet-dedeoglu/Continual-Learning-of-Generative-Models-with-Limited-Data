@@ -1,1 +1,37 @@
-
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+LSUN_Simulations/Folder_[0, 1, 2, 3, 4]/checkpoint_Iter_10000
+LSUN_Simulations/Folder_[5, 6, 7, 8, 9]/checkpoint_Iter_10000
+LSUN_Simulations/Folder_[10 11]/checkpoint_Iter_10000
+LSUN_Simulations/Folder_EdgeOnly_[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]Full/checkpoint_Iter_10000
+LSUN_Simulations/Folder_BaryTransfer_[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]Full14/checkpoint_Iter_10000
+LSUN_Simulations/Folder_Transfer_[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]Full15/checkpoint_Iter_10000
+LSUN_Simulations/Folder_BaryTransfer_[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]Ternarized_with_Threshold16/checkpoint_Iter_10000
+LSUN_Simulations/Folder_Transfer_[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]Ternarized_with_Threshold17/checkpoint_Iter_10000
+0
+0
+LSUN_Simulations/Folder_ModelAverage_Full20/ModelAverage
+LSUN_Simulations/Folder_BaryTransfer_[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]Full21/checkpoint_Iter_10000
+LSUN_Simulations/Folder_FullData_[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]Full/checkpoint_Iter_10000
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
